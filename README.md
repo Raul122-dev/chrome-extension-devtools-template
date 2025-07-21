@@ -7,7 +7,7 @@ A minimalist template for building **Chrome Manifest V3** extensions with a **cu
 ## Main Features
 
 | Feature              | Description                                                                               |
-| -------------------- | ----------------------------------------------------------------------------------------- | --- |
+| -------------------- | ----------------------------------------------------------------------------------------- |
 | **React + TS**       | Ready-to-use setup with Vite and `@vitejs/plugin-react`.                                  |
 | **Manifest V3**      | `service_worker` as background, minimal permissions, and DevTools panel declared.         |
 | **DevTools Panel**   | Creates a tab called _React Panel_ inside Developer Tools.                                |
