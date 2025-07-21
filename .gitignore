@@ -36,6 +36,5 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# ─── Tests / Coverage ─────────────────────
-coverage/
-*.lcov
+# ─── TypeScript build cache ─────────────────────
+*.tsbuildinfo
