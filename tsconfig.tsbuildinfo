@@ -1,0 +1,1 @@
+{"root":["./src/background.ts","./src/content.ts","./src/devtools.ts","./src/panel/App.tsx","./src/panel/hooks.ts","./src/panel/main.tsx"],"version":"5.8.3"}
